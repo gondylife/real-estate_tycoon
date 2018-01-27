@@ -1,2 +1,2 @@
 # real-estate_tycoon
-A model to predict transaction prices with an average error of under $70,000
+A machine learning model to predict transaction prices for houses with an average error of under $70,000
